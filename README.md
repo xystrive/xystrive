@@ -1,16 +1,16 @@
 # Hey 👋🏼, I'm xystrive.
+
 ## A Software Developer with a passion for problem solving and an interest in politics.
 
 - 22 years old
 - From Portugal
 
-**Programming Languages**
+### Programming Languages
 
-![Static Badge](https://img.shields.io/badge/-Rust?style=for-the-badge&logo=rust&color=%23000000)
-![Static Badge](https://img.shields.io/badge/-Golang?style=for-the-badge&logo=go&color=%23000000)
+![Static Badge](https://img.shields.io/badge/-Rust?style=for-the-badge&logo=rust&logoColor=%23000000&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-Golang?style=for-the-badge&logo=go&color=%23ffffff)
 
 ### PGP
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -35,5 +35,4 @@ UkD3PBXMGAkGnRZCjtaQw8kkQHwD
 ```
 
 ### Contact
-
 Email: contact@xystrive.dev
