@@ -1,6 +1,6 @@
 # Hey 👋🏼, I'm xystrive.
 
-## A Software Developer with a passion for problem solving and an interest in politics.
+**A Software Developer with a passion for problem solving and an interest in politics.**
 
 - 22 years old
 - From Portugal
@@ -35,4 +35,4 @@ UkD3PBXMGAkGnRZCjtaQw8kkQHwD
 ```
 
 ### Contact
-Email: contact@xystrive.dev
+Email - contact@xystrive.dev
