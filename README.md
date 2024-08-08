@@ -1,38 +1,27 @@
-# Hey 👋🏼, I'm xystrive.
+# Hey 👋🏼, I'm xystrive. 
 
 **A Software Developer with a passion for problem solving and an interest in politics.**
 
-- 22 years old
-- From Portugal
+- 23 years old
+- From Portugal 🇵🇹
+- Currently working as a Freelance Developer
+- Bits of knowledge and an interest in the cybersecurity field
+- Working out is my other passion 🏋🏼 
 
-### Programming Languages
+### Technologies I use
 
-![Static Badge](https://img.shields.io/badge/-Rust?style=for-the-badge&logo=rust&logoColor=%23000000&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/-Golang?style=for-the-badge&logo=go&color=%23ffffff)
+![Static Badge](https://img.shields.io/badge/Rust-gray?style=for-the-badge&logo=Rust)
+![Static Badge](https://img.shields.io/badge/Golang-gray?style=for-the-badge&logo=Go)
+![Static Badge](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
+![Static Badge](https://img.shields.io/badge/Latex-gray?style=for-the-badge&logo=latex)
+![Static Badge](https://img.shields.io/badge/SurrealDB-gray?style=for-the-badge&logo=surrealdb)
+![Static Badge](https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql)
+![Static Badge](https://img.shields.io/badge/Redis-gray?style=for-the-badge&logo=redis)
+![Static Badge](https://img.shields.io/badge/LXC-gray?style=for-the-badge&logo=linuxcontainers)
+![Static Badge](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
+![Static Badge](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux)
 
-### PGP
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEZqAlSxYJKwYBBAHaRw8BAQdARdBcRRK+x+2DYFRN+bccY41Xz2qHZt+kxBlg
-EC8SgFW0LVJvZHJpZ28gQ2FyZG9zbyAoeHlzdHJpdmUpIDx4eXNAeHlzdHJpdmUu
-ZGV2PoiZBBMWCgBBFiEE+ezcWiWaIJmuVAXfv2zslSZsF8oFAmagJUsCGwMFCQlm
-AYAFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQv2zslSZsF8oxrAD/aBXr
-jrKvJuQqViucpowpwqg18ZJAzmVaf9kfMMlaQuUA/0nEMWW4iNZ/YVwT24HmyUr2
-Tb9wAj81jwbueDhQeJABuDMEZqAnUBYJKwYBBAHaRw8BAQdAdWvJUkh9CsAH59Jg
-FofNNcnM7OmMNL8Bt4ZvqBsOdO6I9QQYFgoAJhYhBPns3FolmiCZrlQF379s7JUm
-bBfKBQJmoCdQAhsiBQkJZgGAAIEJEL9s7JUmbBfKdiAEGRYKAB0WIQQk0cfWGcgY
-wfwWQzlexbujTe6UtwUCZqAnUAAKCRBexbujTe6Ut4YfAP4mQlJaC9b5yeH79aHL
-C0tA/gFiA29HQmfYon++7cyZWgD9EifasZWospS0xywzvpO5IjaUKAP7ShH7awVV
-bsUCNgGd4AD9ErJ4IJg8zw+lue/tY5v8mqnGicCGeeH0v2pdkepS41sA/34Mu4cx
-XUD974CU6fqFJ4bHILJjLe+lNZE6IBEhg6MFuDgEZqFYxhIKKwYBBAGXVQEFAQEH
-QCakmxo5ut4pI5MJ6DNTeQcHwt8coeW+HAWelk8sX84gAwEIB4h+BBgWCgAmFiEE
-+ezcWiWaIJmuVAXfv2zslSZsF8oFAmahWMYCGwwFCQlmAYAACgkQv2zslSZsF8rj
-MgEAk8JAYMgxBccU/wrWymMmKlCOhXH/rDRAeWG5qQrqN7oA/i6w7dJ1B+prDPhd
-UkD3PBXMGAkGnRZCjtaQw8kkQHwD
-=+pk7
------END PGP PUBLIC KEY BLOCK-----
-```
-
-### Contact
-Email - contact@xystrive.dev
+### Contact me at
+- Email - [contact@xystrive.dev](mailto:contact@xystrive.dev)
+- Discord - xystrive
