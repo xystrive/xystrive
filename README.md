@@ -23,5 +23,4 @@
 ![Static Badge](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux)
 
 ### Contact me at
-- Email - [contact@xystrive.dev](mailto:contact@xystrive.dev)
 - Discord - xystrive
