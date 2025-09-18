@@ -2,7 +2,7 @@
 
 **A Software Developer with a passion for problem solving and an interest in politics.**
 
-- 23 years old
+- 24 years old
 - From Portugal 🇵🇹
 - Currently working as a Freelance Developer
 - Bits of knowledge and an interest in the cybersecurity field
